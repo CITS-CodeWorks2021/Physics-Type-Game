@@ -1,0 +1,209 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 5979 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/admin/OneDrive/Documents/Unity/Physics Type Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56086
+Successfully changed project path to: C:/Users/admin/OneDrive/Documents/Unity/Physics Type Game
+C:/Users/admin/OneDrive/Documents/Unity/Physics Type Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 99.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/admin/OneDrive/Documents/Unity/Physics Type Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Q45/Q43 Express Chipset (Microsoft Corporation - WDDM 1.1) (ID=0x2e12)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   8.15.10.2702
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005477 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 87.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.267 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010247 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 79.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.761 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2081 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 4.154000 ms (FindLiveObjects: 0.361400 ms CreateObjectMapping: 0.100000 ms MarkObjects: 3.444900 ms  DeleteObjects: 0.245900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Main.cs
+  artifactKey: Guid(99bd8e5d6e3d242438e9e4c98a396b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.cs using Guid(99bd8e5d6e3d242438e9e4c98a396b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e50db57c3903924d082e287ec4db271') in 0.419431 seconds 
+  Import took 0.429289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3882.784440 seconds.
+  path: Packages/com.unity.ide.visualstudio
+  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec95a5506f2bdeeee79941468489e5') in 0.261859 seconds 
+  Import took 0.456558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.008228 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32caba3e38529b99f1ecfc90593e6e5b') in 1.288112 seconds 
+  Import took 1.331237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.835914 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor
+  artifactKey: Guid(4a707af59e3522d43afe34dfc4429b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor using Guid(4a707af59e3522d43afe34dfc4429b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25d0ef153b012297fad9fd32b854b41') in 0.215500 seconds 
+  Import took 0.256712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.399312 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/com.unity.ide.visualstudio.asmdef
+  artifactKey: Guid(b93f844d45cfcc44fa2b0eed5c9ec6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/com.unity.ide.visualstudio.asmdef using Guid(b93f844d45cfcc44fa2b0eed5c9ec6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c166c5239c9f94d6347c9b443d9b01') in 0.247191 seconds 
+  Import took 0.263077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.996217 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/COMIntegration
+  artifactKey: Guid(36422aa067e092e45b9820da2ee3e728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/COMIntegration using Guid(36422aa067e092e45b9820da2ee3e728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9eff08c7ed4be8db048861e58d7aab9') in 0.099775 seconds 
+  Import took 0.129195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.078889 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/UnityInstallation.cs
+  artifactKey: Guid(a8c76505bcc613640ade706bdb0f1cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/UnityInstallation.cs using Guid(a8c76505bcc613640ade706bdb0f1cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1970ec02460b1e36cec7098cea3fae') in 0.124622 seconds 
+  Import took 0.134356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.369645 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/UnityInstallation.cs
+  artifactKey: Guid(a8c76505bcc613640ade706bdb0f1cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/UnityInstallation.cs using Guid(a8c76505bcc613640ade706bdb0f1cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1970ec02460b1e36cec7098cea3fae') in 0.029069 seconds 
+  Import took 0.045400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.867237 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/UsageUtility.cs
+  artifactKey: Guid(5a7aba2d3d458e04eb4210c0303fbf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/UsageUtility.cs using Guid(5a7aba2d3d458e04eb4210c0303fbf64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ba76a49180b742dcfbead09c0ef765') in 0.356441 seconds 
+  Import took 0.367591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.777865 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/Discovery.cs
+  artifactKey: Guid(abe003ac6fee32e4892100a78f555011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/Discovery.cs using Guid(abe003ac6fee32e4892100a78f555011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c7a38724238a82f47267c5e13eef82') in 0.073782 seconds 
+  Import took 0.089551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.419301 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/Solution.cs
+  artifactKey: Guid(af4c2c762e1d8e949a6bc458973df6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/Solution.cs using Guid(af4c2c762e1d8e949a6bc458973df6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c287607de1a7f226f8f6ebebef99ef') in 0.051301 seconds 
+  Import took 0.065030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.645124 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/Image.cs
+  artifactKey: Guid(8e6c7ea7c059fb547b6723aaf225900b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/Image.cs using Guid(8e6c7ea7c059fb547b6723aaf225900b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47cf236b280004cee45e82f987e93dc4') in 0.101947 seconds 
+  Import took 0.109096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.200195 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/VersionPair.cs
+  artifactKey: Guid(ffe1bdf971d321f4db593c4c6ebd6e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/VersionPair.cs using Guid(ffe1bdf971d321f4db593c4c6ebd6e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ebbb41745bfaaf31e9887e41094f15') in 0.029210 seconds 
+  Import took 0.036718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.141753 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/VisualStudioEditor.cs
+  artifactKey: Guid(0173aff8c07e06b42af07ebdd7f08032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/VisualStudioEditor.cs using Guid(0173aff8c07e06b42af07ebdd7f08032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feea8aecbdf01f109d4eadf929a7a8ed') in 0.082855 seconds 
+  Import took 0.090398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.539187 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/VisualStudioInstallation.cs
+  artifactKey: Guid(bb86eea06f54fb24caa7046a8a764945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/VisualStudioInstallation.cs using Guid(bb86eea06f54fb24caa7046a8a764945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de053a796d3a97ad0da3ff5a4963badf') in 0.077379 seconds 
+  Import took 0.084775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.728216 seconds.
+  path: Packages/com.unity.ide.visualstudio/Editor/VisualStudioIntegration.cs
+  artifactKey: Guid(48fcd6ebd5ce8fd4cbe931895233677d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/Editor/VisualStudioIntegration.cs using Guid(48fcd6ebd5ce8fd4cbe931895233677d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5920406398eaf43fa7422f6e050bce') in 0.037921 seconds 
+  Import took 0.046763 seconds .
+
